@@ -1,0 +1,25 @@
+{
+  "name": "introtutorial",
+  "version": "1.0.0",
+  "description": "simple Start Project to understand Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Georg Freitag",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlclean": "^2.7.14",
+    "gulp-inject": "^4.2.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "gulp-clean-css": "^3.4.1",
+    "gulp-htmlclean": "^2.7.14"
+  }
+}
